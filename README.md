@@ -11,8 +11,8 @@
  - Frontend Mentor - @DanCodeCraft
  - Twitter - @DanCodeCraft
 
-⚡ Get to know me: 
+⚡ Get to know me: <br>
 🎮 I have worked in the video games industry for 15 years <br>
-🎸 I have played guitar and piano since I was 6yo
-💥 I'm a comic book/graphic novel devourer
+🎸 I have played guitar and piano since I was 6yo <br>
+💥 I'm a comic book/graphic novel devourer <br>
 🎲 Board game enthusiast
