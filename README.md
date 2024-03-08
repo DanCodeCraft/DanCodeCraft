@@ -14,6 +14,7 @@
 ⚡ Get to know me: <br>
 🎮 Working in the video games industry for 15 years <br>
 📜 Bachelor's in Marketing <br>
+🎛️ Graduation in audio engineering <br>
 🎸 I have played guitar and piano since I was 6yo <br>
 💥 Comic book/graphic novel devourer <br>
 🎲 Board game enthusiast
