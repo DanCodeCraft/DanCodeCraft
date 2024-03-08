@@ -12,7 +12,8 @@
  - Twitter - @DanCodeCraft
 
 ⚡ Get to know me: <br>
-🎮 I have worked in the video games industry for 15 years <br>
+🎮 Working in the video games industry for 15 years <br>
+📜 Bachelor's in Marketing <br>
 🎸 I have played guitar and piano since I was 6yo <br>
-💥 I'm a comic book/graphic novel devourer <br>
+💥 Comic book/graphic novel devourer <br>
 🎲 Board game enthusiast
