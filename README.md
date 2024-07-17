@@ -8,7 +8,6 @@
 - HTML
 - CSS
 - JavaScript
-- React (w.i.p)
 - GDScript
 
 📚 Learning:
