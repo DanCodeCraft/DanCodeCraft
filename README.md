@@ -1,7 +1,7 @@
 👋 Hi there! 👨‍💻
 
  - You can call me Dan (He/Him)!
- - I was looking for a career shift, and suddenly fell in love with Frontend Dev and coding.
+ - I was looking for a career shift, and suddenly fell in love with everything-coding.
  - There's no turning back, and I'm glad for it!
 
 🌱 My stack (so far):
