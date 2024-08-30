@@ -17,7 +17,7 @@
 💞️ If you want to partner up, message me! You can find me in the links below:
 - LinkedIn - [LinkedIn](https://www.linkedin.com/in/adannjacinto/)
 - Frontend Mentor - [@DanCodeCraft](https://www.frontendmentor.io/profile/DanCodeCraft)
-- Twitter - [@DanCodeCraft](https://www.twitter.com/DanCodeCraft)
+- Twitter - [@DanCodeCraft](https://www.x.com/DanCodeCraft)
 - Codewars - [@DanCodeCraft](https://www.codewars.com/users/DanCodeCraft)
 
 ⚡ Get to know me: <br>
