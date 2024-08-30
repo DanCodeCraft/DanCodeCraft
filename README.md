@@ -7,6 +7,7 @@
 🌱 My stack (so far):
 - HTML
 - CSS
+- SQL
 - JavaScript
 - GDScript
 
