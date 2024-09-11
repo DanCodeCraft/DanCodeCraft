@@ -12,7 +12,7 @@
 - GDScript
 
 📚 Learning:
-- React
+- React, NextJS, Tailwind
 
 🗣️ Let's talk:
 - LinkedIn - [LinkedIn](https://www.linkedin.com/in/adannjacinto/)
