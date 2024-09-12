@@ -9,10 +9,10 @@
 - CSS
 - SQL
 - JavaScript
-- GDScript
+- GDScript (yes, I love making video games!)
 
 📚 Learning:
-- React, NextJS, Tailwind
+- React, Next.js, Tailwind, Redux (much more to come)
 
 🗣️ Let's talk:
 - LinkedIn - [LinkedIn](https://www.linkedin.com/in/adannjacinto/)
