@@ -21,9 +21,10 @@
 - Frontend Mentor - [@DanCodeCraft](https://www.frontendmentor.io/profile/DanCodeCraft)
 - X/Twitter - [@DanCodeCraft](https://www.x.com/DanCodeCraft)
 - Codewars - [@DanCodeCraft](https://www.codewars.com/users/DanCodeCraft)
+- <a href="mailto:jacinto.adann@gmail.com">📧 Reach me via Email</a>
 
 ⚡ When I'm not coding: <br>
-🎮 Working in the video games industry for 15 years <br>
+🎮 Working in the video games industry since 2009 <br>
 📜 Bachelor's in Marketing <br>
 🎛️ Graduation in audio engineering <br>
 🎸 I have played guitar and piano since I was 6yo <br>
