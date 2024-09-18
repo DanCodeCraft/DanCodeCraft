@@ -11,6 +11,7 @@
 - JavaScript
 - GDScript (yes, I love making video games!)
 <!---<img width="75px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" /> --->
+![Stack](https://github.com/user-attachments/assets/40f730fc-5cd0-4594-ad4d-5e90d088db0e)
 
 📚 Learning:
 - React, Next.js, Tailwind, Redux (much more to come)
