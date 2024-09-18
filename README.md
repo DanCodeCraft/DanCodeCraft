@@ -21,7 +21,7 @@
 - Frontend Mentor - [@DanCodeCraft](https://www.frontendmentor.io/profile/DanCodeCraft)
 - X/Twitter - [@DanCodeCraft](https://www.x.com/DanCodeCraft)
 - Codewars - [@DanCodeCraft](https://www.codewars.com/users/DanCodeCraft)
-- <a href="mailto:jacinto.adann@gmail.com">📧 Reach me via Email</a>
+- <a href="mailto:jacinto.adann@gmail.com">📧 Send me an email!</a>
 
 ⚡ When I'm not coding: <br>
 🎮 Working in the video games industry since 2009 <br>
