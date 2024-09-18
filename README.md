@@ -10,7 +10,8 @@
 - SQL
 - JavaScript
 - GDScript (yes, I love making video games!)
-<img width="25px"![image](https://github.com/user-attachments/assets/5ff19e5e-24e6-4f31-af5a-4c98d3d1c8ed) />
+<img width="25px" src="https://github.com/user-attachments/assets/5ff19e5e-24e6-4f31-af5a-4c98d3d1c8ed" />
+
 
 
 📚 Learning:
