@@ -10,7 +10,8 @@
 - SQL
 - JavaScript
 - GDScript (yes, I love making video games!)
-- ![alt text]([http://url/to/img.png](https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png))
+![image](https://github.com/user-attachments/assets/5ff19e5e-24e6-4f31-af5a-4c98d3d1c8ed)
+
 
 📚 Learning:
 - React, Next.js, Tailwind, Redux (much more to come)
