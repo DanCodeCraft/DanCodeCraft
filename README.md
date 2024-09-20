@@ -17,6 +17,7 @@
 🎮 Working in the video games industry since 2009 <br>
 📜 Bachelor's in Marketing <br>
 🎛️ Graduation in audio engineering <br>
+🔊 Sound designer focused on games and post-prod <br>
 
 ⚡ When I'm not coding: <br>
 🎸 I have played guitar and piano since I was 6 years old <br>
