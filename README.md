@@ -13,7 +13,7 @@
 - Codewars - [@DanCodeCraft](https://www.codewars.com/users/DanCodeCraft)
 - <a href="mailto:jacinto.adann@gmail.com">📧 Send me an email! 📧</a>
 
-📚 Background:
+📚 Background: <br>
 🎮 Working in the video games industry since 2009 <br>
 📜 Bachelor's in Marketing <br>
 🎛️ Graduation in audio engineering <br>
