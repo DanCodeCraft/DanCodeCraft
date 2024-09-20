@@ -13,10 +13,13 @@
 - Codewars - [@DanCodeCraft](https://www.codewars.com/users/DanCodeCraft)
 - <a href="mailto:jacinto.adann@gmail.com">📧 Send me an email! 📧</a>
 
-⚡ When I'm not coding: <br>
+📚 Background:
 🎮 Working in the video games industry since 2009 <br>
 📜 Bachelor's in Marketing <br>
 🎛️ Graduation in audio engineering <br>
-🎸 I have played guitar and piano since I was 6yo <br>
+
+⚡ When I'm not coding: <br>
+🎸 I have played guitar and piano since I was 6 years old <br>
 💥 Comic book/graphic novel devourer <br>
-🎲 Board game enthusiast
+🎲 Board game player <br>
+🕹️ Hardcore gamer
