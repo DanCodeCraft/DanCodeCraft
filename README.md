@@ -3,6 +3,7 @@
  - You can call me Dan (He/Him)!
  - I was looking for a career shift, and suddenly fell in love with everything coding.
  - There's no turning back now!
+ - I also make video games.
 
 ![Stack](https://github.com/user-attachments/assets/13439de1-8c5a-4eb6-9ee2-95b0a529c505)
 
